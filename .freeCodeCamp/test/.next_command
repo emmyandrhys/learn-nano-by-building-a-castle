@@ -19,3 +19,5 @@ __vsc_original_prompt_command=$PROMPT_COMMAND
 echo hello nano
 __vsc_prompt_cmd_original
 touch castle.sh
+__vsc_prompt_cmd_original
+ls --color=auto
