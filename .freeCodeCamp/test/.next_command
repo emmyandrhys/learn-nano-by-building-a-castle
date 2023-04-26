@@ -55,3 +55,8 @@ nano castle.sh
 __vsc_prompt_cmd_original
 nano castle.sh
 bash castle.sh
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n 213de050-e981-4722-92d9-6aa196aaf8ea
+cat /proc/self/environ
+echo -n 213de050-e981-4722-92d9-6aa196aaf8ea
